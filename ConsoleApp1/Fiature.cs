@@ -1,9 +1,9 @@
 ﻿using System;
 namespace ConsoleApp1 {
     class Fiature {
-        static int Add() {
+       public static int Add(int a, int b) {
 
-            return 0;
+            return a + b;
         }
     }
 }

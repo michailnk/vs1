@@ -5,9 +5,9 @@ namespace ConsoleApp1 {
         static void Main(string[] args) {
             // comment created to add git hub
             // code was added to VS
-            
-            // code to call chenges Fiature 1
 
+            // code to call chenges Fiature 1
+            Console.WriteLine(Fiature.Add(5,3);
         }
     }
 }
