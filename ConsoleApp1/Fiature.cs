@@ -1,16 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ConsoleApp1
-{
-    public class Fiature
-    {
-        public static int Add() {
+namespace ConsoleApp1 {
+    class Fiature {
+        static int Add() {
 
             return 0;
         }
     }
 }
+
